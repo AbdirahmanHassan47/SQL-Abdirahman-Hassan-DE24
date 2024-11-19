@@ -1,0 +1,1 @@
+SELECT * from funny_jokes;

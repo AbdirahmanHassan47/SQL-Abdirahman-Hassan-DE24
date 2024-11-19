@@ -1,0 +1,6 @@
+#dbeaver
+.dbeaver
+.project
+
+#duckdb
+.wal
