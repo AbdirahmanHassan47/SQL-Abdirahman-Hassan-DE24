@@ -1,0 +1,35 @@
+{
+	"folders": {},
+	"connections": {
+		"duckdb_jdbc-1934f999a8e-73fdfc6ac30e3b2e": {
+			"provider": "generic",
+			"driver": "duckdb_jdbc",
+			"name": "salaries.duckdb",
+			"save-password": true,
+			"configuration": {
+				"database": "C:\\Users\\Brukare\\Desktop\\github\\SQL-Abdirahman-Hassan-DE24\\05_filtering\\data\\salaries.duckdb",
+				"url": "jdbc:duckdb:C:\\Users\\Brukare\\Desktop\\github\\SQL-Abdirahman-Hassan-DE24\\05_filtering\\data\\salaries.duckdb",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"smart-commit": false,
+			"smart-commit-recover": true,
+			"auto-close-transactions": true,
+			"close-transactions-period": 1800,
+			"auto-close-connections": true,
+			"close-connections-period": 14400
+		}
+	}
+}
