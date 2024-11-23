@@ -11,7 +11,7 @@ SELECT
 		WHEN experience_level = 'MI' THEN 'Mid level'
 		WHEN experience_level = 'SE' THEN 'Senior'
 		WHEN experience_level = 'EX' THEN 'Expert'
-	END AS Experience_level, * EXCLUDE experience_level 
+	END AS Experience_level, 
 from
 	main.data_jobs;
 
