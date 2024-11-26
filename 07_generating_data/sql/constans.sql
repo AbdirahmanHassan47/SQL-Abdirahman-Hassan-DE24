@@ -6,3 +6,7 @@ VALUES (1),(2),(3);
 
 CREATE TABLE IF NOT EXISTS people_records as (
 SELECT * FROM (VALUES (1,'johan'), (2,'johanna'),(3,'mustafa')) as t(id,name));
+
+SELECT * from people_records;
+
+desc;
