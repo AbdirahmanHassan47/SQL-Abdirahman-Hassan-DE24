@@ -1,14 +1,14 @@
 {
 	"folders": {},
 	"connections": {
-		"duckdb_jdbc-1934685e3a8-5f506a3cbeb6c672": {
+		"duckdb_jdbc-1936af4c6ec-17b7aedb572a4581": {
 			"provider": "generic",
 			"driver": "duckdb_jdbc",
-			"name": "salaries.duckdb",
+			"name": "google_searches.duckdb",
 			"save-password": true,
 			"configuration": {
-				"database": "C:\\Users\\Brukare\\Desktop\\github\\SQL-Abdirahman-Hassan-DE24\\04_querying_data\\data\\salaries.duckdb",
-				"url": "jdbc:duckdb:C:\\Users\\Brukare\\Desktop\\github\\SQL-Abdirahman-Hassan-DE24\\04_querying_data\\data\\salaries.duckdb",
+				"database": "C:\\Users\\Brukare\\Desktop\\github\\SQL-Abdirahman-Hassan-DE24\\08_grouping_data\\google_searches.duckdb",
+				"url": "jdbc:duckdb:C:\\Users\\Brukare\\Desktop\\github\\SQL-Abdirahman-Hassan-DE24\\08_grouping_data\\google_searches.duckdb",
 				"configurationType": "MANUAL",
 				"type": "dev",
 				"closeIdleConnection": true,
